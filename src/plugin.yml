@@ -1,6 +1,6 @@
-main: io.github.lasercar.grouplist.GroupList
+main: io.github.lasercar.fancylist.FancyList
 author: Lasercar7
-website: https://github.com/lasercar/GroupList
-name: GroupList
+website: https://github.com/lasercar/FancyList
+name: FancyList
 version: 1.0.0
 description: fancy listing of players in groups
