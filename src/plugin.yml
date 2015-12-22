@@ -1,0 +1,6 @@
+main: io.github.lasercar.grouplist.GroupList
+author: Lasercar7
+website: https://github.com/lasercar/GroupList
+name: GroupList
+version: 1.0.0
+description: fancy listing of players in groups
